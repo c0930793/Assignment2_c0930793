@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1001",
+    "authorId": "1",
+    "postContent": "My first blog."
+  },
+  {
+      "id": "1002",
+      "authorId": "2",
+      "postContent": "Blog about student."
+    },
+	{
+	      "id": "1001",
+	      "authorId": "1",
+	      "postContent": "My second blog."
+	    }  
+]
